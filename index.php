@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Europe/Paris');
 header('Content-Type: application/json; charset=utf-8');
 
 // --- Configuration via variables d'environnement (définies dans Coolify) ---
